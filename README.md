@@ -3,7 +3,7 @@ Data Structures and Algorithms
 
 Data Structures<br>
 
-Hacktoberfest 2021
+Hacktoberfest 2022
 
 
 
