@@ -1,9 +1,4 @@
 Data Structures and Algorithms
 
 
-Data Structures<br>
-
-Hacktoberfest 2022
-
-
-
+This repository contains the solutions to various commonly known algorithms and data structures. These solutions will come in handy while preparing for Competitive Programming.
