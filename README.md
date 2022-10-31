@@ -28,6 +28,6 @@ This repository contains the solutions to various commonly known algorithms and 
 * [trie](python-dsa/datastrucutre/trie/)
 * [union_find](python-dsa/datastrucutre/union_find/)
 
-## Maintainer
+## Maintainer-
 
 * [Saatvik srivastava](https://github.com/saatvik25)
